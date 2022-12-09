@@ -1,0 +1,120 @@
+
+
+@font-face {
+    src: url(fonts/CursedTimerUlil-Aznm.ttf);
+    font-family: timer;
+}
+    
+.container {
+    display: flex;
+    flex-direction: space-around;
+    height: 400px;
+    width: 580px;
+    border-radius: 0px;
+    background-color: #5B21B6;
+
+}
+
+.headh {
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 45px;
+    margin-top: -8px;
+    
+}
+
+.headg {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: -8px;
+    margin-left: 100px;
+   
+
+    
+
+}
+
+#hbackground {
+    position: absolute;
+    height: 130px;
+    width: 170px;
+    background-color: #FBBF24;
+    margin-top: 130px;
+    margin-left: 55px;
+    box-shadow: 3px 3px 5px black;
+}
+
+#gbackground {
+    position: absolute;
+    height: 130px;
+    width: 170px;
+    background-color: #FBBF24;
+    margin-top: 130px;
+    margin-left: 345px;
+    box-shadow: 3px 3px 5px black;
+    
+    
+}
+
+h2 {
+    font-family: timer;
+    font-size: 80px;
+    text-align: center;
+    font-size: 90px;
+    margin-top: 25px;
+    
+}
+
+
+h1 {
+    color: #FBBF24;
+    font-size: 55px;
+    text-shadow: 3px 3px 5px black;
+    
+}
+
+
+.hbtn {
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 54px;
+}
+
+.gbtn {
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 345px
+}
+
+button {
+   width: 55px;
+   height: 55px;
+   background: none;
+   border: solid 3px white;
+   color: #FBBF24;
+   font-weight: bold;
+   font-size: 20px;
+   box-shadow: 3px 3px 5px black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*background: purple #5B21B6;   background:  yellow #FBBF24;
+/*
+
